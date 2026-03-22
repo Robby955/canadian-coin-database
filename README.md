@@ -133,7 +133,7 @@ If you use this dataset in research, publications, or applications, please cite:
 
 ```
 Canadian Coin Database. (2026). Canadian Coin Heads.
-Available at: https://github.com/robcan/canadian-coin-database
+Available at: https://github.com/Robby955/canadian-coin-database
 Website: https://canadiancoinheads.com
 ```
 
@@ -150,7 +150,7 @@ You are free to use, share, and adapt this data for any purpose, including comme
 
 ## Contributing
 
-Found an error? Missing a coin? Please [open an issue](https://github.com/robcan/canadian-coin-database/issues) with:
+Found an error? Missing a coin? Please [open an issue](https://github.com/Robby955/canadian-coin-database/issues) with:
 
 - The coin ID or description
 - The correction or addition
